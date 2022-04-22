@@ -4,20 +4,17 @@ author: default
 permalink: /
 ---
 
-# 見出し
-
-ここに内容を記述する！
-
-
+スプラトゥーン3（webページ製作体験）
 
 ---
 
-以下テンプレート
+※webページ製作体験で制作したwedページであり、任天堂様とは一切関係のないサイトです。
 
-# 見出し1
-## 見出し2
+# スプラトゥーン３
+## ![banner](https://user-images.githubusercontent.com/104123945/164651619-e185d421-3ce2-44db-a19e-b8d474560ebf.jpg)
+
 ### 見出し3
-#### 見出し4
+####［］（https://www.nintendo.co.jp/switch/aab6a/about/index.html）
 ##### 見出し5
 ###### 見出し6
 
